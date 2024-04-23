@@ -1,3 +1,9 @@
+// things here are basicly useless they are here just so I have the basic idea on my hand go to 
+// the lib file and run vampir_koylu.dart !! 
+
+/*
+
+
 import 'dart:math';
 // Roles in the game 
 enum Roles {
@@ -79,3 +85,6 @@ String getRandomName() {
 // Test users over here
 List<String> users = ['arda','kemal','mehmet','ahmet','ayse','ali','muhammet'];
 // Note: you can try removeing some of the users to see the amount of special roles given change 
+
+
+*/
