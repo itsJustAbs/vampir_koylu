@@ -1,5 +1,5 @@
 // things here are basicly useless they are here just so I have the basic idea on my hand go to 
-// the lib file and run vampir_koylu.dart !! 
+// the lib file and run vampir_koylu.dart for the real thing !!!!!!
 
 /*
 
